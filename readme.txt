@@ -1,6 +1,6 @@
 
 	KN 21.5.2019
-	User instructions are in pptx file
+	User instructions are in MQTT_IoT-ticket_2019_05_17.pptx file
 
 
   read: username, password and ID 
