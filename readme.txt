@@ -1,5 +1,6 @@
 
-	KN 2.4.2018
+	KN 21.5.2019
+	User instructions are in pptx file
 
 
   read: username, password and ID 
