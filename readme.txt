@@ -1,6 +1,10 @@
 
-	KN 21.5.2019
-	User instructions are in MQTT_IoT-ticket_2019_05_17.pptx file
+	KN 3.6.2019
+	
+	User instructions for using IoTTi demo example with IoT-ticket are in Userguide_iot_ticket.pptx 
+	
+	
+	User instructions for Gateway client are in MQTT_IoT-ticket_2019_05_17.pptx file
 
 
   read: username, password and ID 
